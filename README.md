@@ -4,7 +4,7 @@
 
 
   <br>
-    <img src="(https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)" alt="Coder GIF" width="500">
+    <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="Coder GIF" width="500">
     # Hello, 
 
 ## About Me
